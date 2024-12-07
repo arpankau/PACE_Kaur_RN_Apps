@@ -16,15 +16,16 @@ export default function App() {
 
       {/* Name and Title */}
       <Text style={styles.name}>Arpanpreet Kaur</Text>
-      <Text style={styles.title}>Software Developer & Designer</Text>
+<Text style={styles.title}>Innovative Thinker | Creative Developer</Text>
+
 
       {/* Bio Section */}
       <View style={styles.section}>
-        <Text style={styles.sectionTitle}>About Me</Text>
-        <Text style={styles.sectionContent}>
-          Hi there! I'm a passionate developer with experience in React Native, JavaScript, and UI/UX design.
-          I love creating intuitive and responsive applications that bring ideas to life.
-        </Text>
+      <Text style={styles.sectionContent}>
+  Hi there! I'm Arpanpreet, a developer who thrives on challenges and innovation. I specialize in creating user-friendly applications with React Native and JavaScript. 
+  When I'm not coding, I'm exploring new design trends or brainstorming creative solutions for complex problems.
+ </Text>
+
       </View>
 
       {/* Interests Section */}
