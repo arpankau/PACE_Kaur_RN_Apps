@@ -21,7 +21,7 @@ export default function App() {
 
       {/* Bio Section */}
       <View style={styles.section}>
-      <Text style={styles.sectionContent}>
+      <Text style={styles.sectionContent}> 
   Hi there! I'm Arpanpreet, a developer who thrives on challenges and innovation. I specialize in creating user-friendly applications with React Native and JavaScript. 
   When I'm not coding, I'm exploring new design trends or brainstorming creative solutions for complex problems.
  </Text>
